@@ -5,6 +5,10 @@
 [![GitHub Kauã](https://img.shields.io/github/followers/kauanunnes?label=follow&style=flat-square&logo=Github)](https://github.com/kauanunnes)
 [![Linkedin: kauanunnes](https://img.shields.io/badge/-kauanunnes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kauanunnes/)](https://www.linkedin.com/in/kauanunnes/)
 
+<div><br>
+    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=kauanunnes"/>
+    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanunnes&layout=compact"/>
+</div>
 <!--
 **kauanunnes/kauanunnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
