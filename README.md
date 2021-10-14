@@ -1,5 +1,5 @@
 ### Opa! Tudo bom?  👋
-> Me chamo Kauã Nunes, tenho 17 anos e sou de Fortaleza - CE. Atualmente sou estudante do ensino médio com técnico integrado em informática e sempre fui apaixonado por programação. Aqui você vai encontrar meus estudos em forma de repositórios. Espero que goste do meu espaço que criei com muito carinho e esforço.
+> Me chamo Kauã Nunes, tenho 18 anos e sou de Fortaleza - CE. Atualmente sou estudante do ensino médio com técnico integrado em informática e sempre fui apaixonado por programação. Aqui você vai encontrar meus estudos em forma de repositórios. Espero que goste do meu espaço que criei com muito carinho e esforço.
 
 ### Minhas redes 
 [![GitHub Kauã](https://img.shields.io/github/followers/kauanunnes?label=follow&style=flat-square&logo=Github)](https://github.com/kauanunnes)
