@@ -1,6 +1,5 @@
 ```json
 {
-{
   "name": "Kauã Nunes",
   "age": "18 y.o",
   "city": "Fortaleza - CE, Brazil",
