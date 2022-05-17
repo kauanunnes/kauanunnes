@@ -2,7 +2,7 @@
 {
   "name": "Kauã Nunes",
   "age": "18 y.o",
-  "city": "Fortaleza - CE, Brazil",
+  "city": "Curitiba, PR, Brazil",
   "description": "Hey, I'm Kauã and I'm a junior web developer.\nHere you'll find some of my projects. I hope you like! Any comments contact me on LinkedIn. :)",
   "skills": [
     {
