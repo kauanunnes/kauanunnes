@@ -20,7 +20,7 @@ I'm a passionate Fullstack Web Developer from Curitiba, Paraná, Brasil. Current
 
 ## 💼 Experience
 
-- **Junior Engineer** @ [VILT](https://vilt.com) (March 2022 - Present)
+- **Junior Engineer** @ [VILT](https://vilt-group.com) (March 2022 - Present)
   - Developing front-end interfaces with Vue.js, TypeScript, and SASS.
   - Building scalable and resilient back-end solutions with Kotlin, Java, and Spring.
   - Working with Docker, Agile methodologies, and Git for version control.
