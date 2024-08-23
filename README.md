@@ -8,7 +8,7 @@ I'm a passionate Fullstack Web Developer from Curitiba, Paraná, Brasil. Current
 - **Back-end:** Java, Kotlin, Spring Boot, Node.js
 - **Databases:** MySQL, PosgreSQL, MongoDB
 - **DevOps:** Docker, Kubernetes, Git, Heroku, AWS
-- **Programming Languages:** Java (17, 11, 8), Kotlin, JavaScript, Python (Flask), Express
+- **Programming Languages:** Java (17, 11, 8), Kotlin, JavaScript, Python
 - **Other Tools & Technologies:** Microservices, SOLID principles, Design Patterns, APIs REST, Agile Methodologies, Continuous Integration, Monitoring & Observability
 
 ## 📚 Education
