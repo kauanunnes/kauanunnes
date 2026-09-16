@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About me
 
-Software Engineer at [VILT](https://vilt-group.com) and Computer Science student at **PUCPR**.
+Software Engineer at [VILT](https://vilt-group.com).
 
 I work across the stack: **Kotlin/Java + Spring** on the backend, **Vue.js/React + TypeScript** on the frontend — with a strong focus on clean code, design patterns and automated testing (unit, integration and E2E). I also automate data routines with **Python + Pandas**.
 
