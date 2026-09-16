@@ -138,15 +138,6 @@ I work across the stack: **Kotlin/Java + Spring** on the backend, **Vue.js/React
 
 ---
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kauanunnes&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanunnes&layout=compact&hide_border=true&theme=transparent&langs_count=8">
-</p>
-
----
-
 ## 📫 Get in touch
 
 <p>
